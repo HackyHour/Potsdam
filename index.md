@@ -8,7 +8,7 @@ No registration needed!
 Every second week we cover certain topics that might be of special interest to you.
 
 # When and Where
-Every Wednesday at 2pm at [Café Freundlich](https://www.openstreetmap.org/?mlat=52.3819&mlon=13.0650#map=16/52.3819/13.0650&layers=N) we meet for about an hour.
+Every Wednesday at 2pm at [Café Freundlich](https://www.openstreetmap.org/?mlat=52.3819&mlon=13.0650#map=16/52.3819/13.0650&layers=N), Telegrafenberg, House 34, 14473 Potsdam.
 
 # Topics
 In addition to the open discussions we also aim to talk about specific topics every second HackyHour.
