@@ -11,6 +11,7 @@ Every second week we cover a particular topic that might be of special interest 
 Every Wednesday at 2pm at [Café Freundlich](https://www.openstreetmap.org/?mlat=52.3819&mlon=13.0650#map=16/52.3819/13.0650&layers=N), Telegrafenberg, House 34, 14473 Potsdam.
 
 # Topics
+
 | Date       | Title |
 | ---------- |-------------- |
 | 2019-xx-xx | Literate programming in R/Python/... |
