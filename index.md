@@ -12,21 +12,14 @@ Every Wednesday at 2pm at [Café Freundlich](https://www.openstreetmap.org/?mlat
 
 # Topics
 
-| Date       | Title |
-| ---------- |-------------- |
-| 2019-xx-xx | Literate programming in R/Python/... |
-| 2019-xx-xx | General |
-| 2019-xx-xx | Data visualization |
-| 2019-xx-xx | General |
-| 2019-xx-xx | Frequency transformaton (DFT/FFT) and digital filters |
-| 2019-xx-xx | General |
-| 2019-xx-xx | Julia (programming language) |
-| 2019-xx-xx | General |
-| 2019-xx-xx | GLIC - GFZ Linux Cluster |
-| 2019-xx-xx | General |
-| 2019-xx-xx | Google Earth Engine |
-| 2019-xx-xx | General |
-| 2019-xx-xx | Git, GitHub, GitLab |
+| Date       | Title | Discussion |
+| ---------- |------ | ---------- |
+| 2019-01-09 | What is git and why should I use it | [pad](https://hackmd.io/1SqnbwuJQZaQsjSwOY1C0A) |
+| 2019-01-16 | Recap & General discussion | [pad](https://hackmd.io/m9w6SE4cREyaTk0aDbYwTA) |
+| 2019-01-23 | Sustainable programming or why I don't understand the code of my supervisor | [pad](https://hackmd.io/tflMMsAnQ367p32MVWwFYw) |
+| 2019-01-30 | Recap & General discussion | [pad](https://hackmd.io/20RR1el4QwCjpYXllrqNOg) |
+| 2019-02-06 | I have 8 CPU cores but my script uses only one | [pad](https://hackmd.io/_q3PO8slT8qvbVnn2yFLzg) |
+| 2019-02-13 | Recap & General discussion | [pad](https://hackmd.io/3ZAf22APRg-8XEsBfA_6kw) |
 
 # Inspiration
 This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/).
