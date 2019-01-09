@@ -6,4 +6,4 @@ You can also just take a break, come by and socialize.
 Every second week we cover certain topics that might be of special interest to you.
 For more information check out our [website](http://hackyhour.github.io/Potsdam/).
 
-:neutral_face: :computer: :hammer: :sob:
+:neutral_face: :computer: :hammer: :sob: :+1:
