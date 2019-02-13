@@ -20,6 +20,13 @@ Every Wednesday at 2pm at [Café Freundlich](https://www.openstreetmap.org/?mlat
 | 2019-01-30 | Recap & General discussion | [pad](https://hackmd.io/20RR1el4QwCjpYXllrqNOg) |
 | 2019-02-06 | I have 8 CPU cores but my script uses only one | [pad](https://hackmd.io/_q3PO8slT8qvbVnn2yFLzg) |
 | 2019-02-13 | Recap & General discussion | [pad](https://hackmd.io/3ZAf22APRg-8XEsBfA_6kw) |
+| 2019-02-20 | Markdown - somewhere between Latex and Word | |
+| 2019-02-27 | Recap & General discussion | |
+| 2019-03-06 | Data visualization - Show your data and analysis results | |
+| 2019-03-13 | Recap & General discussion | |
+| 2019-03-06 | GIS scripting 4- doing GIS stuff in your code | |
+| 2019-03-13 | Recap & General discussion | |
+
 
 # Inspiration
 This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/).
