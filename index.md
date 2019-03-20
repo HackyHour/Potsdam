@@ -15,7 +15,7 @@ Every Wednesday at 2pm at [Café Freundlich](https://www.openstreetmap.org/?mlat
 | Date       | Title | Discussion |
 | ---------- |------ | ---------- |
 | 2019-03-20 | Generic Talk - It is PhD Day | |
-| 2019-03-27 | GIS scripting 4- doing GIS stuff in your code | |
+| 2019-03-27 | GIS scripting 4 - doing GIS stuff in your code | |
 | 2019-04-03 | Recap & General discussion | |
 
 # Past Topics
