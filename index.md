@@ -14,10 +14,9 @@ Every Wednesday at 2pm at [Café Freundlich](https://www.openstreetmap.org/?mlat
 
 | Date       | Title | Discussion |
 | ---------- |------ | ---------- |
-| 2019-03-06 | Markdown - somewhere between Latex and Word | |
-| 2019-03-13 | Recap & General discussion | |
-| 2019-03-06 | GIS scripting 4- doing GIS stuff in your code | |
-| 2019-03-13 | Recap & General discussion | |
+| 2019-03-20 | Generic Talk - It is PhD Day | |
+| 2019-03-27 | GIS scripting 4- doing GIS stuff in your code | |
+| 2019-04-03 | Recap & General discussion | |
 
 # Past Topics
 
@@ -31,6 +30,8 @@ Every Wednesday at 2pm at [Café Freundlich](https://www.openstreetmap.org/?mlat
 | 2019-02-13 | Recap & General discussion | [pad](https://hackmd.io/3ZAf22APRg-8XEsBfA_6kw) |
 | 2019-02-20 | Data visualization - Show your data and analysis results | |
 | 2019-02-27 | Recap & General discussion | |
+| 2019-03-06 | Markdown - somewhere between Latex and Word | |
+| 2019-03-13 | Recap & General discussion | |
 
 # Inspiration
 This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/).
